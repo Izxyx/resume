@@ -1,2 +1,2 @@
 Pillow==9.0.1
-streamlit==1.12.2
+streamlit==1.13.0
