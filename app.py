@@ -25,13 +25,14 @@ SOCIAL_MEDIA = {
     'Instagram': 'https://www.instagram.com/arq_v/'
 }
 PROJECTS = {
-    '► EDA retail store and machine learning modeling (Pandas, Seaborn, Plotly, Matplotlib, Scipy, Missingno Scikitlearn).': 'https://github.com/Izxyx/eda_retail_store/blob/master/eda_retail_store.ipynb',
-    '► Retail store sales dashboard.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Predicting sales based on retail store features.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Forecasting sales based on store features.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Power BI dashboard.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Excel dashboard.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Example report retail stores insights.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC'
+    '► EDA retail store and machine learning modeling (Pandas, Seaborn, Plotly, Matplotlib, Scipy, Missingno Scikit-learn).': 'https://github.com/Izxyx/eda_retail_store/blob/master/eda_retail_store.ipynb',
+    '► Retail store sales dashboard with Python (Pandas, Plotly, Scikit-learn, Streamlit).': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Predicting retail store annual sales based on size and furniture. (Scikit-learn, Streamlit)': 'https://izxyx-prediction-sales-app-druvq3.streamlitapp.com/',
+    '► Forecasting retail store monthly sales (Scikit-learn, SkForecast, Streamlit).': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Example Retail store insights (Deepnote, Pandas, Seaborn, Plotly, Scipy).': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Power BI dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Excel dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Google Data Stusio dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
 }
 
 
