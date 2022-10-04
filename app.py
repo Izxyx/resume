@@ -16,7 +16,8 @@ PAGE_TITLE = 'Digital CV | Victor Hugo Pérez Barrios'
 NAME = 'Victor Hugo Pérez Barrios'
 DESCRIPTION = 'Junior Data Analyst'
 EMAIL = 'dc.vhpb@gmail.com'
-PHONE = '(044) 5513337258'
+PHONE = '(044) 551333725855'
+
 CITY = 'Miguel Hidalgo, CDMX'
 SOCIAL_MEDIA = {
     'Linkedin': 'https://www.linkedin.com/in/arqhp/',
