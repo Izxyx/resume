@@ -17,7 +17,6 @@ NAME = 'Victor Hugo Pérez Barrios'
 DESCRIPTION = 'Junior Data Analyst'
 EMAIL = 'dc.vhpb@gmail.com'
 PHONE = '(044) 551333725855'
-
 CITY = 'Miguel Hidalgo, CDMX'
 SOCIAL_MEDIA = {
     'Linkedin': 'https://www.linkedin.com/in/arqhp/',
@@ -74,6 +73,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 st.write("---")
 
+
 # Qualifications
 st.write('\n')
 st.subheader("Qulifications")
@@ -87,13 +87,14 @@ st.write("""
 st.write('\n') 
 st.write("---")
 
+
 #  Hard Skills
 st.write('\n')
 st.subheader("Hard Skills")
 st.write("""
 - ► Programming: Python (Scikit-learn, Pandas, TensorFlow, Keras), SQL
 
-- ► Data Visulization: PowerBI, Tableu, Matplotlib, MS Excel, Matplotlib, Seaborn, Plotly
+- ► Data Visulization: MS Excel, PowerBI, Google Data Studio, Matplotlib, Seaborn, Plotly
 
 - ► Modeling: Regression, Decision Trees, Clustering, Classificaction, XGBoost, Catboost, Lightboost
 
