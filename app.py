@@ -28,7 +28,7 @@ PROJECTS = {
     '► Retail store sales dashboard with Python. (Pandas, Plotly, Scikit-learn, Streamlit)': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
     '► Predicting retail store annual sales based on size and furniture. (Scikit-learn, Streamlit)': 'https://izxyx-prediction-sales-app-druvq3.streamlitapp.com/',
     '► Forecasting retail store monthly sales. (Scikit-learn, SkForecast, Streamlit)': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Example Retail store insights. (Deepnote, Pandas, Seaborn, Plotly, Scipy)': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Example Retail store insights. (Deepnote, Pandas, Seaborn, Plotly, Scipy)': 'https://deepnote.com/@hugo-perez-d799/EDA-Retail-Store-1584efa7-48ca-42f7-a2df-bfe70ebdd983',
     '► Power BI dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
     '► Excel dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
     '► Google Data Stusio dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
