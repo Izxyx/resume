@@ -13,8 +13,8 @@ profile_pic = current_dir/"assets"/"profile-pic.png"
 
 # Settings
 PAGE_TITLE = 'Digital CV | Victor Hugo Pérez Barrios'
-NAME = 'Victor Hugo Pérez Barrios'
-DESCRIPTION = 'Junior Data Analyst'
+NAME = "Hi, I'm Victor Hugo Pérez Barrios"
+DESCRIPTION = 'Data Analyst'
 EMAIL = 'dc.vhpb@gmail.com'
 PHONE = '(044) 551333725855'
 CITY = 'Miguel Hidalgo, CDMX'
@@ -24,12 +24,12 @@ SOCIAL_MEDIA = {
     'Instagram': 'https://www.instagram.com/arq_v/'
 }
 PROJECTS = {
-    '► EDA retail store and machine learning modeling. (Pandas, Seaborn, Plotly, Matplotlib, Scipy, Missingno Scikit-learn)': 'https://github.com/Izxyx/eda_retail_store/blob/master/eda_retail_store.ipynb',
+    '► EDA retail store and machine learning modeling. (Pandas, Seaborn, Plotly, Matplotlib, Scipy, Missingno, Scikit-learn)': 'https://github.com/Izxyx/eda_retail_store/blob/master/eda_retail_store.ipynb',
     '► Retail store sales dashboard with Python. (Pandas, Plotly, Scikit-learn, Streamlit)': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
     '► Predicting retail store annual sales based on size and furniture. (Scikit-learn, Streamlit)': 'https://izxyx-prediction-sales-app-druvq3.streamlitapp.com/',
     '► Forecasting retail store monthly sales. (Scikit-learn, SkForecast, Streamlit)': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
     '► Example Retail store insights. (Deepnote, Pandas, Seaborn, Plotly, Scipy)': 'https://deepnote.com/@hugo-perez-d799/EDA-Retail-Store-1584efa7-48ca-42f7-a2df-bfe70ebdd983',
-    '► Power BI dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Power BI dashboard example.': 'https://app.powerbi.com/groups/me/reports/41b47aa3-eb9e-441a-bc06-6006cf203976/ReportSection',
     '► Excel dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
     '► Google Data Stusio dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
 }
@@ -78,7 +78,7 @@ st.write("---")
 st.write('\n')
 st.subheader("Qulifications")
 st.write("""
-- ► 2 Years experience extracting insights from data.
+- ► 1 Year experience extracting insights from data.
 
 - ► Strong hands on experience and knowledge in Python and Excel.
 
@@ -92,13 +92,13 @@ st.write("---")
 st.write('\n')
 st.subheader("Hard Skills")
 st.write("""
-- ► Programming: Python (Scikit-learn, Pandas, TensorFlow, Keras), SQL
+- ► Programming: Python, Scikit-learn, Pandas, Numpy, Scipy, SQL.
 
-- ► Data Visulization: MS Excel, PowerBI, Google Data Studio, Matplotlib, Seaborn, Plotly
+- ► Data Visulization: MS Excel, PowerBI, Google Data Studio, Matplotlib, Seaborn, Plotly.
 
-- ► Modeling: Regression, Decision Trees, Clustering, Classificaction, XGBoost, Catboost, Lightboost
+- ► Modeling: Regression, Decision Trees, Clustering, Classificaction, XGBoost, Catboost, Lightboost.
 
-- ► Databases: MySQL, MongoDB, Firebase
+- ► Databases: MySQL, MongoDB, Firebase.
 """)
 st.write('\n') 
 st.write("---")
