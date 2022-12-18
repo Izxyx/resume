@@ -14,24 +14,23 @@ profile_pic = current_dir/"assets"/"profile-pic.png"
 # Settings
 PAGE_TITLE = 'Digital CV | Victor Hugo Pérez Barrios'
 NAME = "Hi, I'm Victor Hugo Pérez Barrios"
-DESCRIPTION = 'Data Analyst'
+DESCRIPTION = 'MBA Machine Learning Specialist'
 EMAIL = 'dc.vhpb@gmail.com'
 PHONE = '(044) 551333725855'
-CITY = 'Miguel Hidalgo, CDMX'
+CITY = 'Iztapala, CDMX'
 SOCIAL_MEDIA = {
     'Linkedin': 'https://www.linkedin.com/in/arqhp/',
     'Github': 'https://github.com/Izxyx',
-    'Instagram': 'https://www.instagram.com/arq_v/'
+    'Behance': 'https://www.behance.net/gallery/115492619/PORTAFOLIO-VICTOR-HUGO-PEREZ-BARRIOS'
 }
 PROJECTS = {
-    '► EDA retail store and machine learning modeling. (Pandas, Seaborn, Plotly, Matplotlib, Scipy, Missingno, Scikit-learn)': 'https://github.com/Izxyx/eda_retail_store/blob/master/eda_retail_store.ipynb',
-    '► Retail store sales dashboard with Python. (Pandas, Plotly, Scikit-learn, Streamlit)': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Predicting retail store annual sales based on size and furniture. (Scikit-learn, Streamlit)': 'https://izxyx-prediction-sales-app-druvq3.streamlitapp.com/',
-    '► Forecasting retail store monthly sales. (Scikit-learn, SkForecast, Streamlit)': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Example Retail store insights. (Deepnote, Pandas, Seaborn, Plotly, Scipy)': 'https://deepnote.com/@hugo-perez-d799/EDA-Retail-Store-1584efa7-48ca-42f7-a2df-bfe70ebdd983',
-    '► Power BI dashboard example.': 'https://app.powerbi.com/groups/me/reports/41b47aa3-eb9e-441a-bc06-6006cf203976/ReportSection',
-    '► Excel dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
-    '► Google Data Studio dashboard example.': 'https://www.youtube.com/watch?v=PyoRdu-i0AQ&ab_channel=DilanxC',
+    '► Storytelling Bank Direct Marketing.': 'https://www.canva.com/design/DAFPyFPOaKM/MaXe8T1h23z8jr5s2Q3DrA/view#1',
+    '► Analysis Bank Direct Marketing.': 'https://colab.research.google.com/drive/1-YtpWCUKw5dYN3E8Oaq5FFdNPgVVo9Jl?usp=sharing',
+    '► EDA Retail Store and Machine Learning Modeling. (Pandas, Seaborn, Plotly, Matplotlib, Scipy, Missingno, Scikit-learn)': 'https://github.com/Izxyx/eda_retail_store/blob/master/eda_retail_store.ipynb',
+    '► Predicting Retail Store Sales. (Scikit-learn, Streamlit)': 'https://izxyx-prediction-sales-app-druvq3.streamlitapp.com/',
+    '► Retail Store Insights Report Example. (Deepnote, Pandas, Seaborn, Plotly, Scipy)': 'https://deepnote.com/@hugo-perez-d799/EDA-Retail-Store-1584efa7-48ca-42f7-a2df-bfe70ebdd983',
+    '► Power BI Dashboard Example.': 'https://app.powerbi.com/groups/me/reports/41b47aa3-eb9e-441a-bc06-6006cf203976/ReportSection',
+    '► Google Data Studio Dashboard Example.': 'https://datastudio.google.com/reporting/724bc4c1-2e41-4b7e-bce5-5cf1aeb2948c/page/t9Z5C'
 }
 
 
@@ -78,7 +77,7 @@ st.write("---")
 st.write('\n')
 st.subheader("Qulifications")
 st.write("""
-- ► 1 Year experience extracting insights from data.
+- ► 2 Years experience extracting insights and creating models from data.
 
 - ► Strong hands on experience and knowledge in Python and Excel.
 
