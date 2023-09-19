@@ -108,7 +108,7 @@ st.write('\n')
 st.subheader("Experience")
 
 st.write("**Real State Data Analyst  |  Miniso S.A.P.I.**")
-st.write("October 2021 - March 20233")
+st.write("October 2021 - March 2023")
 st.write("""
 - ► Analyst in charge of inspection and planning for new mall stores opening, layout stores development, needs conciliation across different functional areas inside the company.
 
@@ -121,6 +121,20 @@ st.write("""
 - ► Collaborated with financial team to oversee end-to-end process surrounding stores data.
 """)
 st.write('\n') 
+st.write("**Real State Data Analyst  |  Miniso S.A.P.I.**")
+st.write("October 2021 - March 2023")
+st.write("""
+- ► Analyst in charge of inspection and planning for new mall stores opening, layout stores development, needs conciliation across different functional areas inside the company.
+
+- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding architecture initiatives and supplied recommendations to boost earnings in stores.
+
+- ► Built machine learning models, dashboards and maps to generate meaningful insights from  stores data.
+
+- ► Compiled, studied, and inferred large amounts of data, modeling  information to find pattern in stores.
+
+- ► Collaborated with financial team to oversee end-to-end process surrounding stores data.
+""")
+st.write('\n')      
 st.write("---")
 
 # Projects
