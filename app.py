@@ -16,7 +16,7 @@ PAGE_TITLE = 'Digital CV | Victor Hugo Pérez Barrios'
 NAME = "Hi, I'm Victor Hugo Pérez Barrios"
 DESCRIPTION = 'MBA Machine Learning Specialist'
 EMAIL = 'dc.vhpb@gmail.com'
-PHONE = '(044) 551333725855'
+PHONE = '(044) 5513337258'
 CITY = 'Iztapala, CDMX'
 SOCIAL_MEDIA = {
     'Linkedin': 'https://www.linkedin.com/in/arqhp/',
