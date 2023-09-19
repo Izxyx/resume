@@ -30,7 +30,7 @@ PROJECTS = {
     '► Predicting Retail Store Sales. (Scikit-learn, Streamlit)': 'https://izxyx-prediction-sales-app-druvq3.streamlitapp.com/',
     '► Retail Store Insights Report Example. (Deepnote, Pandas, Seaborn, Plotly, Scipy)': 'https://deepnote.com/@hugo-perez-d799/EDA-Retail-Store-1584efa7-48ca-42f7-a2df-bfe70ebdd983',
     '► Power BI Dashboard Example.': 'https://app.powerbi.com/groups/me/reports/41b47aa3-eb9e-441a-bc06-6006cf203976/ReportSection',
-    '► Google Data Studio Dashboard Example.': 'https://datastudio.google.com/reporting/724bc4c1-2e41-4b7e-bce5-5cf1aeb2948c/page/t9Z5C'
+    '► Looker Studio Dashboard Example.': 'https://datastudio.google.com/reporting/724bc4c1-2e41-4b7e-bce5-5cf1aeb2948c/page/t9Z5C'
 }
 
 
@@ -108,7 +108,7 @@ st.write('\n')
 st.subheader("Experience")
 
 st.write("**Real State Data Analyst  |  Miniso S.A.P.I.**")
-st.write("October 2021 - Present")
+st.write("October 2021 - March 20233")
 st.write("""
 - ► Analyst in charge of inspection and planning for new mall stores opening, layout stores development, needs conciliation across different functional areas inside the company.
 
