@@ -79,7 +79,7 @@ st.subheader("Qulifications")
 st.write("""
 - ► 3 Years experience extracting insights and creating models from data.
 
-- ► Strong hands on experience and knowledge in Python and Excel.
+- ► Strong hands on experience and knowledge in Python, R, SAS, SQL and Excel.
 
 - ► Good understanding of statistical principles and their respective applications.
 """)
