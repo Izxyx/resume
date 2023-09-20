@@ -77,7 +77,7 @@ st.write("---")
 st.write('\n')
 st.subheader("Qulifications")
 st.write("""
-- ► 2 Years experience extracting insights and creating models from data.
+- ► 3 Years experience extracting insights and creating models from data.
 
 - ► Strong hands on experience and knowledge in Python and Excel.
 
@@ -86,22 +86,26 @@ st.write("""
 st.write('\n') 
 st.write("---")
 
-
 #  Hard Skills
 st.write('\n')
 st.subheader("Hard Skills")
 st.write("""
-- ► Programming: Python, Scikit-learn, Pandas, Numpy, Scipy, SQL.
+- ► Programming: Python, R, SAS, SQL
+         
+- ► MSOffice: Excel, PowerPoint, Word
+         
+- ► Libraries: Pandas, Numpy, Scipy, Scikit-learn, TensorFlow, MLFlow
 
-- ► Data Visulization: MS Excel, PowerBI, Google Data Studio, Matplotlib, Seaborn, Plotly.
+- ► Data Visualization: PowerBI, Looker Studio, Matplotlib, Seaborn, Plotly
 
 - ► Modeling: Regression, Decision Trees, Clustering, Classificaction, XGBoost, Catboost, Lightboost.
 
-- ► Databases: MySQL, MongoDB, Firebase.
+- ► Databases: SQL Server, Oracle SQL Server, MySQL, MongoDB
+         
+- ► Design: Autocad, Revit, Sketchup, Photoshop, InDesign
 """)
 st.write('\n') 
 st.write("---")
-
 
 # Experience 
 st.write('\n')
@@ -121,18 +125,17 @@ st.write("""
 - ► Collaborated with financial team to oversee end-to-end process surrounding stores data.
 """)
 st.write('\n') 
-st.write("**Real State Data Analyst  |  Miniso S.A.P.I.**")
-st.write("October 2021 - March 2023")
+st.write("**Data Analyst BI Canada  |  Miniso S.A.P.I.**")
+st.write("March 2023 - Today")
 st.write("""
-- ► Analyst in charge of inspection and planning for new mall stores opening, layout stores development, needs conciliation across different functional areas inside the company.
+- ► Analyst in charge of analyze and develop Ad-hoc and BAU reports for the stakeholders in Canada in the Non-Sales Team (campaigns for direct investment products, clustering of markets, master card risk analysis).
+   
+- ► Develop and execute processes, dashboards and models to identify future Leads (potential clients).
 
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding architecture initiatives and supplied recommendations to boost earnings in stores.
-
-- ► Built machine learning models, dashboards and maps to generate meaningful insights from  stores data.
-
-- ► Compiled, studied, and inferred large amounts of data, modeling  information to find pattern in stores.
-
-- ► Collaborated with financial team to oversee end-to-end process surrounding stores data.
+- ► Used Power Query and Looker to create dashboards and track different KPIs for marketing campaigns (visits, unique visits, conversions, clicks, submissions, rates, etc.)
+    
+- ► Supporting in the transition of legacy SAS code processes from India. 
+       
 """)
 st.write('\n')      
 st.write("---")
