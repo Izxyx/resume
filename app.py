@@ -86,6 +86,7 @@ st.write("""
 st.write('\n') 
 st.write("---")
 
+
 #  Hard Skills
 st.write('\n')
 st.subheader("Hard Skills")
@@ -106,6 +107,7 @@ st.write("""
 """)
 st.write('\n') 
 st.write("---")
+
 
 # Experience 
 st.write('\n')
@@ -139,6 +141,7 @@ st.write("""
 """)
 st.write('\n')      
 st.write("---")
+
 
 # Projects
 st.write('\n')      
