@@ -113,6 +113,22 @@ st.write("---")
 st.write('\n')
 st.subheader("Experience")
 
+
+st.write('\n') 
+st.write("**Data Analyst BI Canada  |  Miniso S.A.P.I.**")
+st.write("March 2023 - Today")
+st.write("""
+- ► Analyst in charge of analyze and develop Ad-hoc and BAU reports for the stakeholders in Canada in the Non-Sales Team (campaigns for direct investment products, clustering of markets, master card risk analysis).
+   
+- ► Develop and execute processes, dashboards and models to identify future Leads (potential clients).
+
+- ► Used Big Query and Looker to create dashboards and track different KPIs for marketing campaigns (visits, unique visits, conversions, clicks, submissions, rates, etc.)
+    
+- ► Supporting in the transition of legacy SAS code processes from India. 
+       
+""")
+
+st.write('\n') 
 st.write("**Real State Data Analyst  |  Miniso S.A.P.I.**")
 st.write("October 2021 - March 2023")
 st.write("""
@@ -125,19 +141,6 @@ st.write("""
 - ► Compiled, studied, and inferred large amounts of data, modeling  information to find pattern in stores.
 
 - ► Collaborated with financial team to oversee end-to-end process surrounding stores data.
-""")
-st.write('\n') 
-st.write("**Data Analyst BI Canada  |  Miniso S.A.P.I.**")
-st.write("March 2023 - Today")
-st.write("""
-- ► Analyst in charge of analyze and develop Ad-hoc and BAU reports for the stakeholders in Canada in the Non-Sales Team (campaigns for direct investment products, clustering of markets, master card risk analysis).
-   
-- ► Develop and execute processes, dashboards and models to identify future Leads (potential clients).
-
-- ► Used Power Query and Looker to create dashboards and track different KPIs for marketing campaigns (visits, unique visits, conversions, clicks, submissions, rates, etc.)
-    
-- ► Supporting in the transition of legacy SAS code processes from India. 
-       
 """)
 st.write('\n')      
 st.write("---")
